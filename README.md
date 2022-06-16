@@ -1,6 +1,3 @@
-# My name is Leonam-James!!!
-*I'm 18 years old and I'm looking to be a programmer*
-
 <div>
   <a href="https://github.com/RaphManDey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphManDey&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
